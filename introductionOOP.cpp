@@ -21,4 +21,5 @@ int main(){
     mhs1.nama = "Alby";
     mhs1.nilai = 85.5;
 
+    mhs1.printData();
 }
